@@ -4,6 +4,7 @@ tareas ={
     "estudio":[]
     
 }
+print("Prueba para subir al github")
 while True:
     print("---Gestión de tareas---")
     print("1- Hogar")
